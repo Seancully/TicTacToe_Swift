@@ -6,4 +6,4 @@ TicTacToe / X’s &amp; O’s Game created in xcode using Swift.
 
 ![Image 22-07-2023 at 13 09](https://github.com/Seancully/TicTacToe_Swift/assets/91594677/e228c6aa-2565-42cd-8107-a4ec93002d00)
 
-
+![Image 22-07-2023 at 13 10](https://github.com/Seancully/TicTacToe_Swift/assets/91594677/d4880cbe-1395-4a06-bb15-88eefb7e7494)
