@@ -8,7 +8,7 @@ A Tic-Tac-Toe game made in Xcode using Swift and SwiftUI.
 ## Table of Contents
 
 - [Description](#description)
-- [Screenshots](
+- [Screenshots](#screenshots)
 - [Project Structure](#project-structure)
 - [Getting Started](#getting-started)
 - [Game Logic](#game-logic)
@@ -18,6 +18,14 @@ A Tic-Tac-Toe game made in Xcode using Swift and SwiftUI.
 ## Description
 
 This project is a simple Tic-Tac-Toe game built with Swift and SwiftUI. It allows two players to take turns and keeps track of the game's progress and the winner.
+
+## Screenshots
+![Image 22-07-2023 at 13 09](https://github.com/Seancully/TicTacToe_Swift/assets/91594677/ad288902-aa27-4a2e-9e20-275a86f04d28)
+
+![Image 22-07-2023 at 13 09](https://github.com/Seancully/TicTacToe_Swift/assets/91594677/e228c6aa-2565-42cd-8107-a4ec93002d00)
+
+![Image 22-07-2023 at 13 10](https://github.com/Seancully/TicTacToe_Swift/assets/91594677/d4880cbe-1395-4a06-bb15-88eefb7e7494)
+
 
 ## Project Structure
 
